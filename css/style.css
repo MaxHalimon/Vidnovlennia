@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: comfortaa;
   font-weight: 300;
@@ -431,6 +426,10 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   font-size: 18px;
   color: #1fb5f6;
+}
+
+.navbar-header {
+  padding-bottom: 5px;
 }
 
 .img-remember {
